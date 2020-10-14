@@ -40,8 +40,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": -25,
-                            "y": 30
+                            "x": -22,
+                            "y": 33
                         },
                         "node_id": "75a8520e-81a1-48f0-bb50-7e9f31c80733",
                         "port_number": 0
@@ -59,8 +59,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": 29,
-                            "y": -27
+                            "x": 23,
+                            "y": -25
                         },
                         "node_id": "ead19a54-4df9-44c3-8687-e3bff9dad95b",
                         "port_number": 0
@@ -121,8 +121,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e2",
-                            "x": 5,
-                            "y": -57
+                            "x": -2,
+                            "y": -55
                         },
                         "node_id": "a22498ce-fc82-4e36-b768-cb62a896e7a9",
                         "port_number": 2
@@ -134,7 +134,7 @@
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/0",
                             "x": -34,
-                            "y": 49
+                            "y": 56
                         },
                         "node_id": "efa181c3-e7ec-4574-9e56-c567000b4adc",
                         "port_number": 0
@@ -152,8 +152,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e2",
-                            "x": 2,
-                            "y": -44
+                            "x": -1,
+                            "y": -40
                         },
                         "node_id": "75a8520e-81a1-48f0-bb50-7e9f31c80733",
                         "port_number": 2
@@ -164,7 +164,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/0",
-                            "x": -38,
+                            "x": -33,
                             "y": 49
                         },
                         "node_id": "76cb94a9-893d-4a01-9e63-d75e2450a2f1",
@@ -183,8 +183,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e3",
-                            "x": 43,
-                            "y": -54
+                            "x": 37,
+                            "y": -55
                         },
                         "node_id": "a22498ce-fc82-4e36-b768-cb62a896e7a9",
                         "port_number": 3
@@ -195,8 +195,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/1",
-                            "x": 38,
-                            "y": 52
+                            "x": 34,
+                            "y": 59
                         },
                         "node_id": "efa181c3-e7ec-4574-9e56-c567000b4adc",
                         "port_number": 1
@@ -226,8 +226,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/1",
-                            "x": 34,
-                            "y": 51
+                            "x": 35,
+                            "y": 48
                         },
                         "node_id": "76cb94a9-893d-4a01-9e63-d75e2450a2f1",
                         "port_number": 1
@@ -245,7 +245,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/2",
-                            "x": 61,
+                            "x": 62,
                             "y": -10
                         },
                         "node_id": "efa181c3-e7ec-4574-9e56-c567000b4adc",
@@ -257,8 +257,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/2",
-                            "x": -77,
-                            "y": -11
+                            "x": -68,
+                            "y": -9
                         },
                         "node_id": "76cb94a9-893d-4a01-9e63-d75e2450a2f1",
                         "port_number": 2
@@ -276,8 +276,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/3",
-                            "x": 65,
-                            "y": 19
+                            "x": 64,
+                            "y": 24
                         },
                         "node_id": "efa181c3-e7ec-4574-9e56-c567000b4adc",
                         "port_number": 3
@@ -288,8 +288,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/3",
-                            "x": -49,
-                            "y": 22
+                            "x": -56,
+                            "y": 19
                         },
                         "node_id": "76cb94a9-893d-4a01-9e63-d75e2450a2f1",
                         "port_number": 3
@@ -308,7 +308,7 @@
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/4",
                             "x": 42,
-                            "y": -47
+                            "y": -52
                         },
                         "node_id": "efa181c3-e7ec-4574-9e56-c567000b4adc",
                         "port_number": 4
@@ -319,8 +319,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/0",
-                            "x": -54,
-                            "y": 19
+                            "x": -56,
+                            "y": 12
                         },
                         "node_id": "535ac7a1-a1a2-4dbf-8c67-5f0123062bab",
                         "port_number": 0
@@ -338,8 +338,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/5",
-                            "x": 105,
-                            "y": -34
+                            "x": 97,
+                            "y": -32
                         },
                         "node_id": "efa181c3-e7ec-4574-9e56-c567000b4adc",
                         "port_number": 5
@@ -351,7 +351,7 @@
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/1",
                             "x": -24,
-                            "y": 51
+                            "y": 48
                         },
                         "node_id": "535ac7a1-a1a2-4dbf-8c67-5f0123062bab",
                         "port_number": 1
@@ -369,8 +369,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/4",
-                            "x": -9,
-                            "y": -57
+                            "x": -20,
+                            "y": -54
                         },
                         "node_id": "76cb94a9-893d-4a01-9e63-d75e2450a2f1",
                         "port_number": 4
@@ -381,8 +381,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/4",
-                            "x": 74,
-                            "y": 19
+                            "x": 67,
+                            "y": 21
                         },
                         "node_id": "535ac7a1-a1a2-4dbf-8c67-5f0123062bab",
                         "port_number": 4
@@ -401,7 +401,7 @@
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/5",
                             "x": -91,
-                            "y": -40
+                            "y": -35
                         },
                         "node_id": "76cb94a9-893d-4a01-9e63-d75e2450a2f1",
                         "port_number": 5
@@ -462,8 +462,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": 54,
-                            "y": -3
+                            "x": 67,
+                            "y": -14
                         },
                         "node_id": "755dece2-a232-4eb2-b030-bc1aedb33be3",
                         "port_number": 0
@@ -474,8 +474,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": 13,
-                            "y": 49
+                            "x": -27,
+                            "y": 29
                         },
                         "node_id": "a22498ce-fc82-4e36-b768-cb62a896e7a9",
                         "port_number": 0
@@ -497,8 +497,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "ESW1",
-                    "x": -33,
-                    "y": -33
+                    "x": -39,
+                    "y": -37
                 },
                 "locked": false,
                 "name": "ESW1",
@@ -668,8 +668,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "Switch1",
-                    "x": -49,
-                    "y": -27
+                    "x": 86,
+                    "y": -10
                 },
                 "locked": false,
                 "name": "Switch1",
@@ -752,8 +752,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "Switch2",
-                    "x": 86,
-                    "y": -11
+                    "x": 81,
+                    "y": -8
                 },
                 "locked": false,
                 "name": "Switch2",
@@ -836,8 +836,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "PC2",
-                    "x": 24,
-                    "y": 74
+                    "x": 13,
+                    "y": 65
                 },
                 "locked": false,
                 "name": "PC2",
@@ -849,8 +849,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -295,
-                "y": 235,
+                "x": -294,
+                "y": 239,
                 "z": 1
             },
             {
@@ -907,7 +907,7 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 251,
+                "x": 223,
                 "y": 251,
                 "z": 1
             },
@@ -964,8 +964,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "dc0490ac-48f5-47ee-aee2-b21779889f79",
                 "width": 66,
-                "x": -90,
-                "y": -415,
+                "x": -87,
+                "y": -416,
                 "z": 1
             },
             {
@@ -980,8 +980,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "PC1",
-                    "x": 15,
-                    "y": 68
+                    "x": 12,
+                    "y": 65
                 },
                 "locked": false,
                 "name": "PC1",
