@@ -240,13 +240,13 @@ La compania cuenta con 2 departamentos: Contabilidad y Ventas. Se debe proveer c
 
     ```
     conf t
-    int fa 0/1.10
+    int fa 0/0.10
     ip dhcp pool ventas
     network 192.168.13.0 255.255.255.0
     default-route 192.168.13.254
     exit
 
-    int fa 0/1.20
+    int fa 0/0.20
     ip dhcp pool contabilidad
     network 192.168.23.0 255.255.255.0
     default-route 192.168.23.254
